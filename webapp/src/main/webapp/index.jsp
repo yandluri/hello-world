@@ -21,7 +21,6 @@
     <br>
 
     <p>Added Line1</p>
-    <p>Added Line2</p>
     
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
